@@ -1,0 +1,13 @@
+.venv/
+.env
+.streamlit/secrets.toml
+
+__pycache__/
+*.pyc
+.pytest_cache/
+
+firecon.db
+*.db
+pytest.ini
+
+.DS_Store

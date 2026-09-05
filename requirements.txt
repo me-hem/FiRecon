@@ -1,0 +1,10 @@
+pandas
+numpy
+fastapi
+uvicorn
+python-dotenv
+pydantic
+sqlalchemy
+pytest
+streamlit
+google-genai
