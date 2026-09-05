@@ -5,8 +5,7 @@ FiRecon is an evidence-first payment reconciliation controller for a payment gat
 It covers multiple scenarios such as exact matches, fee/tax deductions, full/partial refunds (with and without charges), partial settlements, batch settlements, missing/mismatched bank credits, duplicate payments, and settlement-integrity failures.
 
 ## Architecture
-
-<img width="451" height="497" alt="image" src="https://github.com/user-attachments/assets/0a7046ac-5966-4f7b-86cd-c5f0e9a0cab9" />
+<img width="448" height="497" alt="firecon" src="https://github.com/user-attachments/assets/f6926b8a-2c3c-49db-8c92-4fa7c7c2d1ca" />
 
 **Design Principle:** The financial decision is deterministic and evidence-based. AI is an analysis layer only, it explains the controller's result and does not decide whether a payment reconciles.
 
